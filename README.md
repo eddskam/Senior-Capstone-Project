@@ -3,7 +3,7 @@ I researched the use of different machine learning algorithms and python to pred
 
 ## FILES:
 ## MyCapstone.ipynb:
-This file contains all the code I used in data processing, data analysis and machine Learning modeling.
+This file is a juoyter notebook that contains all the code I used in data processing, data analysis and machine Learning modeling.
 
 ## Table4.csv
 This is a csv file containing the data based on data from whoscored.com, that I processed and used to perform my predictions.
